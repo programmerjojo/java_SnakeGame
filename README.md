@@ -1,9 +1,8 @@
 # java_SnakeGame
 
 <p>This is a Snake Game that I have programmed using Java and Eclipse! Very fun game to make and play :D</p>
-
-<ul>
-  How Game Works...
+How Game Works...
+<ul>  
   <li>You control a snake with arrow key</li>
   <li>Goal is to eat apples which add a block to the end of your snake... make your snake as long as possible</li>
   <li>Avoid collisions with the walls and your own body!</li>
